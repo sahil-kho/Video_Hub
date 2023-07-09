@@ -50,7 +50,7 @@ const Home = () => {
            textAlign={'center'}
            >
 
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi nam asperiores delectus repudiandae accusamus, similique dicta eius est ab consequuntur quidem. Quasi tempora, non quae porro rerum voluptas hic laboriosam!
+            Share your videos with friends, family, and the world. Enjoy a seamless and intuitive platform designed for effortless navigation and video playback.
 
           </Text>
 
